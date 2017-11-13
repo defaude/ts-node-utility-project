@@ -1,0 +1,14 @@
+# intelliJ
+.idea/
+
+# node
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+node_modules/
+typings/
+
+# apple
+.DS_Store
+.AppleDouble
+.LSOverride
