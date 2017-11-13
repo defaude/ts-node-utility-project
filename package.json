@@ -1,0 +1,10 @@
+{
+    "name": "ts-utility-project",
+    "version": "1.0.0",
+    "description": "Boilerplate project that explains how npm and tsc rock",
+    "scripts": {},
+    "dependencies": {
+        "del": "^3.0.0",
+        "typescript": "^2.6.1"
+    }
+}
