@@ -1,5 +1,5 @@
 {
-    "name": "ts-utility-project",
+    "name": "ts-node-utility-project",
     "version": "1.0.0",
     "description": "Boilerplate project that explains how npm and tsc rock",
     "scripts": {
