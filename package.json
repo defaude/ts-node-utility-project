@@ -2,7 +2,11 @@
     "name": "ts-utility-project",
     "version": "1.0.0",
     "description": "Boilerplate project that explains how npm and tsc rock",
-    "scripts": {},
+    "scripts": {
+        "prestart": "tsc",
+        "start": "node index.js",
+        "poststart": "node cleanup.js"
+    },
     "dependencies": {
         "del": "^3.0.0",
         "typescript": "^2.6.1"
